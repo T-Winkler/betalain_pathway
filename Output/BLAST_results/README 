@@ -1,0 +1,6 @@
+BLAST_results
+
+Filenames indicate query sequence. All queries were blasted against the A. hypochondriacus genome assembly v2.1 database created with the makeblastdb command. 
+
+Setting: -word_size 11 -dust no -outfmt 7 
+ 

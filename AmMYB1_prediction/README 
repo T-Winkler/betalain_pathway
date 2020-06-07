@@ -1,0 +1,1 @@
+Based on output of Beta vulgaris MYB Bv_crae tblastn against A. hypochondriacus v2.1 db (See Blast fasta and blast results). Like described, hits on chrosome 9 AmMYBl1 locus were considered. Blast hit positions were subset using samtools faidx. Manually corrected corrected files and original blast hit sequence.

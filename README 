@@ -1,0 +1,9 @@
+Files generated for the betalain identification project:
+
+-BLAST_fasta: fasta sequences used for blast searches
+-AmMYB1_prediction: files used for prediction of AmMYB1 gene
+-Code: All code used for the project. Additionally, code written for my bachelor thesis was reused for plotting of alignments
+-Output: Generated output files, including results of blast searches
+-Plots: Generated plots
+
+Large files, like genome assembly fasta, gff files etc. are not included in the git repository to prevent upload issues. 

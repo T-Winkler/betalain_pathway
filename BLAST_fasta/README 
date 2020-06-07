@@ -1,0 +1,5 @@
+fasta_files
+
+Fasta files of identified proteins of the betalain biosynthetic pathway. See notes for papers. Additional files I tried using are saved here, but the results are not shown in the protocol.
+
+File name: gene name first, then species (BvMYB exception). GeneBank accessions are indicated in the header of the fasta files

@@ -1,0 +1,9 @@
+Output files:
+
+Blast output files folder
+
+Manually corrected excel sheet of genes with multiple exons, containing all exons of the gene and the manually combined genomic region
+
+Written bed file and intersect result file of bed and gff file
+
+File with all genomic regions "gene_table.txt" found in the study for genes of the betalain pathway
